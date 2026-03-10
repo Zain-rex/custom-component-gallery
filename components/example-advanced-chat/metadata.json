@@ -1,0 +1,8 @@
+{
+  "id": "example-advanced-chat",
+  "title": "Advanced Chat Component",
+  "author": "@abusedmedia",
+  "repoLink": "https://github.com/abusedmedia/retool-custom-component-advanced-chat",
+  "shortDescription": "Modern chat UI with interactive widgets, extensible widget framework, and advanced flow controls. Compatible with both Retool AI Query and Retool Agent Query.",
+  "tags": ["Chat", "AI", "Agents", "Workflows"]
+}
